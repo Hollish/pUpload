@@ -1,0 +1,84 @@
+[Sunday May 07 12:52:45 2017] -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+[Sunday May 07 12:52:45 2017]          STAR WARS: The Old Republic v1.00.0.1 uninstaller ran
+[Sunday May 07 12:52:45 2017] -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+[Sunday May 07 12:52:45 2017] CallParameters=[]
+[Sunday May 07 12:52:45 2017] System Default Language ID=1033
+[Sunday May 07 12:52:45 2017] Supported OS Language=en
+[Sunday May 07 12:52:45 2017] Program Location from registry=D:\Program Files\Star Wars-The Old Republic
+[Sunday May 07 12:52:45 2017] Language string code from registry=en
+[Sunday May 07 12:52:45 2017] Start Menu path from registry=
+[Sunday May 07 12:52:45 2017] User admin status: Admin
+[Sunday May 07 12:52:47 2017] Uninstall
+[Sunday May 07 12:52:47 2017] un.DoUninstall
+[Sunday May 07 12:52:47 2017] Deleting C:\Users\Public\Desktop\Star Wars - The Old Republic.lnk
+[Sunday May 07 12:52:47 2017] Game Explorer: checking for product registry entry
+[Sunday May 07 12:52:47 2017] - removing Game Explorer entry: {94DB7095-FA27-475F-84D2-819A24D4CC7F}
+[Sunday May 07 12:52:47 2017] Deleting key SOFTWARE\BioWare\Star Wars-The Old Republic
+[Sunday May 07 12:52:47 2017] Deleting key (if empty) SOFTWARE\BioWare
+[Sunday May 07 12:52:47 2017]  - error deleting key (probably not empty)
+[Sunday May 07 12:52:47 2017] Deleting Add/Remove registry entry - {3B11D799-48E0-48ED-BFD7-EA655676D8BB}
+[Sunday May 07 12:52:47 2017] Removing Windows Firewall exception "D:\Program Files\Star Wars-The Old Republic\launcher.exe"
+[Sunday May 07 12:52:47 2017]  - unknown error; R1=Ok ; R2=
+[Sunday May 07 12:52:47 2017] Removing Windows Firewall exception "D:\Program Files\Star Wars-The Old Republic\swtor\retailclient\swtor.exe"
+[Sunday May 07 12:52:47 2017]  - unknown error; R1=Ok ; R2=
+[Sunday May 07 12:52:47 2017] Delete 'D:\Program Files\Star Wars-The Old Republic\launcher.exe'
+[Sunday May 07 12:52:47 2017] Delete 'D:\Program Files\Star Wars-The Old Republic\patcher_update.exe'
+[Sunday May 07 12:52:47 2017] Delete 'D:\Program Files\Star Wars-The Old Republic\launcher.settings.xml'
+[Sunday May 07 12:52:47 2017] Delete 'D:\Program Files\Star Wars-The Old Republic\SWTORLaunch.dll'
+[Sunday May 07 12:52:47 2017] Delete 'D:\Program Files\Star Wars-The Old Republic\SWTOR_GDF.dll'
+[Sunday May 07 12:52:47 2017] Delete 'D:\Program Files\Star Wars-The Old Republic\patcher.version'
+[Sunday May 07 12:52:47 2017] Delete 'D:\Program Files\Star Wars-The Old Republic\ReqChk.dll'
+[Sunday May 07 12:52:47 2017] Delete 'D:\Program Files\Star Wars-The Old Republic\TORLog.dll'
+[Sunday May 07 12:52:47 2017] Delete 'D:\Program Files\Star Wars-The Old Republic\ProcChk.dll'
+[Sunday May 07 12:52:47 2017] Delete 'D:\Program Files\Star Wars-The Old Republic\launcher.settings'
+[Sunday May 07 12:52:47 2017] Delete 'D:\Program Files\Star Wars-The Old Republic\icudt.dll'
+[Sunday May 07 12:52:47 2017] Delete 'D:\Program Files\Star Wars-The Old Republic\libcef.dll'
+[Sunday May 07 12:52:47 2017] Delete 'D:\Program Files\Star Wars-The Old Republic\avcodec-53.dll'
+[Sunday May 07 12:52:47 2017] Delete 'D:\Program Files\Star Wars-The Old Republic\avformat-53.dll'
+[Sunday May 07 12:52:47 2017] Delete 'D:\Program Files\Star Wars-The Old Republic\avutil-51.dll'
+[Sunday May 07 12:52:47 2017] Delete 'D:\Program Files\Star Wars-The Old Republic\chrome.pak'
+[Sunday May 07 12:52:47 2017] Delete 'D:\Program Files\Star Wars-The Old Republic\Third Party Notices.doc'
+[Sunday May 07 12:52:47 2017] Delete 'D:\Program Files\Star Wars-The Old Republic\Third Party Notices.rtf'
+[Sunday May 07 12:52:47 2017] Delete 'D:\Program Files\Star Wars-The Old Republic\assets_fr_fr_main.version'
+[Sunday May 07 12:52:47 2017] Delete 'D:\Program Files\Star Wars-The Old Republic\movies_en_us.version'
+[Sunday May 07 12:52:47 2017] Delete 'D:\Program Files\Star Wars-The Old Republic\movies_de_de.version'
+[Sunday May 07 12:52:47 2017] Delete 'D:\Program Files\Star Wars-The Old Republic\movies_fr_fr.version'
+[Sunday May 07 12:52:47 2017] Delete 'D:\Program Files\Star Wars-The Old Republic\retailclient_swtor.version'
+[Sunday May 07 12:52:47 2017] Delete 'D:\Program Files\Star Wars-The Old Republic\assets_swtor_main.version'
+[Sunday May 07 12:52:47 2017] Delete 'D:\Program Files\Star Wars-The Old Republic\assets_en_us_main.version'
+[Sunday May 07 12:52:47 2017] Delete 'D:\Program Files\Star Wars-The Old Republic\assets_de_de_main.version'
+[Sunday May 07 12:52:47 2017] Delete 'D:\Program Files\Star Wars-The Old Republic\*.version'
+[Sunday May 07 12:52:47 2017] Delete 'D:\Program Files\Star Wars-The Old Republic\docs'
+[Sunday May 07 12:52:47 2017] Delete 'D:\Program Files\Star Wars-The Old Republic\he500'
+[Sunday May 07 12:52:47 2017] Delete 'D:\Program Files\Star Wars-The Old Republic\logs'
+[Sunday May 07 12:52:47 2017] Delete 'D:\Program Files\Star Wars-The Old Republic\patch'
+[Sunday May 07 12:52:47 2017] Delete 'D:\Program Files\Star Wars-The Old Republic\Uninstall'
+[Sunday May 07 12:52:47 2017] Delete 'D:\Program Files\Star Wars-The Old Republic\he600'
+[Sunday May 07 12:52:47 2017] Delete 'D:\Program Files\Star Wars-The Old Republic\he700'
+[Sunday May 07 12:52:47 2017] Delete 'D:\Program Files\Star Wars-The Old Republic\he601'
+[Sunday May 07 12:52:47 2017] Delete 'D:\Program Files\Star Wars-The Old Republic\he701'
+[Sunday May 07 12:52:47 2017] Delete 'D:\Program Files\Star Wars-The Old Republic\he501'
+[Sunday May 07 12:52:47 2017] Delete 'D:\Program Files\Star Wars-The Old Republic\html'
+[Sunday May 07 12:52:47 2017] Delete 'D:\Program Files\Star Wars-The Old Republic\he602'
+[Sunday May 07 12:52:47 2017] Delete 'D:\Program Files\Star Wars-The Old Republic\he603'
+[Sunday May 07 12:52:47 2017] Delete 'D:\Program Files\Star Wars-The Old Republic\ui'
+[Sunday May 07 12:52:47 2017] Delete 'D:\Program Files\Star Wars-The Old Republic\Assets'
+[Sunday May 07 12:52:47 2017] Delete 'D:\Program Files\Star Wars-The Old Republic\Movies'
+[Sunday May 07 12:52:48 2017] Delete 'D:\Program Files\Star Wars-The Old Republic\EULAs'
+[Sunday May 07 12:52:48 2017] Delete 'D:\Program Files\Star Wars-The Old Republic\readmes'
+[Sunday May 07 12:52:48 2017] Delete 'D:\Program Files\Star Wars-The Old Republic\locales'
+[Sunday May 07 12:52:48 2017] Delete 'D:\Program Files\Star Wars-The Old Republic\SWTOR'
+[Sunday May 07 12:52:48 2017] Delete 'D:\Program Files\Star Wars-The Old Republic\EUALAs'
+[Sunday May 07 12:52:48 2017] Removing C:\Users\Erik Lammers\AppData\Local\swtor
+[Sunday May 07 12:52:48 2017] Delete C:\Program Files (x86)\Common Files\BioWare\Uninstall Star Wars - The Old Republic.exe
+[Sunday May 07 12:52:48 2017] Removing (if empty) SM Full Path - ''
+[Sunday May 07 12:52:48 2017] Removing (if empty) install folder - 'D:\Program Files\Star Wars-The Old Republic'
+[Sunday May 07 12:52:48 2017] Removing (if empty) uninstaller folder - 'C:\Program Files (x86)\Common Files\BioWare'
+[Sunday May 07 12:52:48 2017] Checking for leftover files
+[Sunday May 07 12:52:48 2017]  'D:\Program Files\Star Wars-The Old Republic' not empty
+[Sunday May 07 12:52:49 2017]  User selected to delete extra files
+[Sunday May 07 12:52:51 2017] un.onGUIEnd
+[Sunday May 07 12:52:51 2017] -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+[Sunday May 07 12:52:51 2017] |           STAR WARS: The Old Republic uninstaller finished
+[Sunday May 07 12:52:51 2017] -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+

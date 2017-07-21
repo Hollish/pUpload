@@ -1,0 +1,9 @@
+{% if targetFile %}
+    <ul>
+        <h2>{{ targetFile.upload.name }}</h2>
+        <p><a href="{% url 'download' targetFile.upload.name %}">Download</a></br>
+        Expires: {{targetFile.expireDate}}</p>
+    </ul>
+{% else %}
+    <p>File not found. Sorry.</p>
+{% endif %}
